@@ -5,3 +5,4 @@ application/cache/*
 httpdocs/info.php
 phpspec-composer.php
 vendor
+composer.phar
