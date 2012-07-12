@@ -6,3 +6,7 @@ httpdocs/info.php
 phpspec-composer.php
 vendor
 composer.phar
+.project
+.buildpath
+.settings
+
