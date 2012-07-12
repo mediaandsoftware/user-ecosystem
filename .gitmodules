@@ -1,0 +1,6 @@
+[submodule "vagrant/cookbooks"]
+	path = vagrant/cookbooks
+	url = git@github.com:paulsschwarz/vagrant-cookbooks.git
+[submodule "system"]
+	path = system
+	url = git://github.com/kohana/core.git

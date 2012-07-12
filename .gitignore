@@ -1,0 +1,7 @@
+.idea
+.vagrant
+application/logs/*
+application/cache/*
+httpdocs/info.php
+phpspec-composer.php
+vendor

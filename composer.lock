@@ -1,0 +1,22 @@
+{
+    "hash": "a4df1feb814fe6112fc0ade98e6f02a6",
+    "packages": [
+        {
+            "package": "cordoval/phpspec",
+            "version": "dev-master",
+            "source-reference": "c768141fe155aa054bfc3b44ac02b9dc445601e0"
+        },
+        {
+            "package": "mockery/mockery",
+            "version": "0.7.2"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "dev",
+    "stability-flags": [
+
+    ]
+}
