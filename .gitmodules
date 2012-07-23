@@ -4,3 +4,9 @@
 [submodule "vagrant/cookbooks"]
 	path = vagrant/cookbooks
 	url = git@github.com:paulsschwarz/vagrant-cookbooks.git
+[submodule "modules/database"]
+	path = modules/database
+	url = https://github.com/kohana/database.git
+[submodule "modules/auth"]
+	path = modules/auth
+	url = https://github.com/kohana/auth.git
